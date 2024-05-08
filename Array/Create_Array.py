@@ -5,6 +5,7 @@ print(myArray)
 myArray1 = ar.array("i",[1,2,3,4,5])
 print(myArray1)
 
+
 ''' Creating Array : Method 2 '''
 import numpy 
 npArray = numpy.array([1,2,3,4,5])
