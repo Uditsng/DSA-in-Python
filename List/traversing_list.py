@@ -21,7 +21,7 @@ for i in reversed(myList):
 
 print('\n','Particular element : ',myList[3])
 
-''' Checking iff element is present or not'''
+''' Checking if element is present or not'''
 print("\n")
 
 print('udit' in myList) #boolean value 
